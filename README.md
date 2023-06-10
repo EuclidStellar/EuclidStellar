@@ -1,6 +1,30 @@
 
-# 💫 About Me:
+<!-- # 💫 About Me:
 🌱 I’m currently learning Blockchain technologies and other web 3 frameworks<br><br>🤝 I’m looking for help with StellarX<br><br>💬 Ask me about Kubernetes,Docker and Blockchain<br><br>📫 How to reach me euclidstellar@gmail.com<br><br>⚡ Fun fact I am a Stoic<br><br>
+ -->
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class Explorer:
+
+    def __init__(self):
+        self.name = "Gaurav Singh"
+        self.role = "Web 3.0 Learner/Explorer"
+        self.language_spoken = ["hn_In", "en_US"]
+        self.learning = "Web 3.0 languages and frameworks"
+        self.fun_fact = "I'm a Stoic"
+        
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = Explorer()
+me.say_hi()
+```
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
 ## 🌐 Socials:
