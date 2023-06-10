@@ -3,6 +3,9 @@
 🌱 I’m currently learning Blockchain technologies and other web 3 frameworks<br><br>🤝 I’m looking for help with StellarX<br><br>💬 Ask me about Kubernetes,Docker and Blockchain<br><br>📫 How to reach me euclidstellar@gmail.com<br><br>⚡ Fun fact I am a Stoic<br><br>
  -->
 
+ 
+ 
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -61,6 +64,8 @@ me.say_hi()
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## Here's some humor for you:
+[![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=euclidstellar&icon=0&color=2)](https://visitcount.itsvg.in)
@@ -105,3 +110,4 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
