@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=euclidstellar&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=euclidstellar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/euclidstellar.svg?style=social&label=Follow%20%40euclidstellar)](https://twitter.com/euclidstellar)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
