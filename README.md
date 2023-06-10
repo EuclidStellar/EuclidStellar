@@ -49,8 +49,9 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=euclidstellar&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/euclidstellar.svg?style=social&label=Follow%20%40euclidstellar)](https://twitter.com/euclidstellar)
+<div id="header">
+  <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
+ </div>
 
 
 ## 📐 Activity Graph
