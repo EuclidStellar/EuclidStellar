@@ -19,8 +19,11 @@
 
 ## 🐦 Latest Tweet
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/euclidstellar.svg?style=social&label=Follow%20%40euclidstellar)](https://twitter.com/euclidstellar)
+
+
 ## 📐 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=euclidstellar&theme=blue&area=true&area_color=tokyonight&point=FF1D1D&custom_title=My%20Contribution%20Graph%20(in%20the%20last%2031%20days))]()
+[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euclidstellar&theme=tokyo-night)](https://github.com/euclidstellar/github-readme-activity-graph)
+
 
 
 ### ✍️ Random Dev Quote
