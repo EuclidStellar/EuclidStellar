@@ -58,7 +58,7 @@ me.say_hi()
 
 
 ## 📐 Activity Graph
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euclidstellar&theme=tokyo-night)](https://github.com/euclidstellar/github-readme-activity-graph)
+[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euclidstellar&theme=tokyo-night )](https://github.com/euclidstellar/github-readme-activity-graph)
 
 
 
