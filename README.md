@@ -54,7 +54,8 @@ me.say_hi()
 <div id="header">
   <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
  </div>
-
+ 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ck6qgjc9sw6stqxkdzibxp4z7&count=1)
 
 <!-- ## 📐 Activity Graph
 [![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euclidstellar&theme=tokyo-night )](https://github.com/euclidstellar/github-readme-activity-graph) -->
