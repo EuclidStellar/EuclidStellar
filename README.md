@@ -42,7 +42,7 @@ me.say_hi()
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=euclidstellar&theme=tokyonight&hide_border=false)<br/>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=euclidstellar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=euclidstellar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%206%20mins-blue)
 
