@@ -27,15 +27,14 @@ class Explorer:
 me = Explorer()
 me.say_hi()
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/euclid#3137) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Euclid.stellar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/themohitbharti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@themohitbharti) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/themohitbharti) 
  [![website](https://img.shields.io/badge/-Website-orange)](https://themohitbharti.vercel.app) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=themohitbharti&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
@@ -62,7 +61,7 @@ me.say_hi()
 [![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=themohitbharti&theme=tokyo-night )](https://github.com/themohitbharti/github-readme-activity-graph) -->
 
 ## 📐 Activity Graph
-[![Euclid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=themohitbharti&theme=react)](https://github.com/themohitbharti/github-readme-activity-graph)
+[![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=themohitbharti&theme=react)](https://github.com/themohitbharti/github-readme-activity-graph)
 
 
 
@@ -75,7 +74,7 @@ me.say_hi()
 [![](https://visitcount.itsvg.in/api?id=themohitbharti&icon=0&color=2)](https://visitcount.itsvg.in)
 
 
-<h3>My Professor has a message for you......</h3>
+
 
 
 <br>
