@@ -30,9 +30,7 @@ me.say_hi()
 
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/euclid#3137) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Euclid.stellar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/themohitbharti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@themohitbharti) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/themohitbharti) 
- [![website](https://img.shields.io/badge/-Website-orange)](https://themohitbharti.vercel.app) 
+
 
 
 # 📊 GitHub Stats:
@@ -57,8 +55,7 @@ me.say_hi()
  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ck6qgjc9sw6stqxkdzibxp4z7&count=1)
 
-<!-- ## 📐 Activity Graph
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=themohitbharti&theme=tokyo-night )](https://github.com/themohitbharti/github-readme-activity-graph) -->
+
 
 ## 📐 Activity Graph
 [![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=themohitbharti&theme=react)](https://github.com/themohitbharti/github-readme-activity-graph)
