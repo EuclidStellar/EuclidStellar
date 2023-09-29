@@ -1,6 +1,6 @@
 
 <!-- # 💫 About Me:
-🌱 I’m currently learning Blockchain technologies and other web 3 frameworks<br><br>🤝 I’m looking for help with StellarX<br><br>💬 Ask me about Kubernetes,Docker and Blockchain<br><br>📫 How to reach me themohitbharti@gmail.com<br><br>⚡ Fun fact I am a Stoic<br><br>
+🌱 I’m currently learning backend development <br><<br>📫 How to reach me mohitbharti373@gmail.com<br><br>
  -->
  
 
@@ -15,10 +15,10 @@ class Explorer:
 
     def __init__(self):
         self.name = "Mohit Bharti"
-        self.role = "Web 3.0 Learner/Explorer"
+        self.role = "Explorer/web developer"
         self.language_spoken = ["hn_In", "en_US"]
-        self.learning = "Web 3.0 languages and frameworks"
-        self.fun_fact = "I'm a Stoic"
+        
+       
         
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
