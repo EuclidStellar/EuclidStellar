@@ -64,7 +64,7 @@ me.say_hi()
 ## 📐 Activity Graph
 [![Euclid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euclidstellar&theme=react)](https://github.com/euclidstellar/github-readme-activity-graph)
 
-
+[![An image of @euclidstellar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/euclidstellar)](https://holopin.io/@euclidstellar)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
