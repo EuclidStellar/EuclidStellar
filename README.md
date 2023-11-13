@@ -67,6 +67,10 @@ me.say_hi()
 ## Hacktoberfest 2023
 [![An image of @euclidstellar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/euclidstellar)](https://holopin.io/@euclidstellar)
 
+## Dev Card
+
+<a href="https://app.daily.dev/euclidstellar"><img src="https://api.daily.dev/devcards/1dd6118fe2984107b3b39b7da4dce38e.png?r=2i5" width="400" alt="Gaurav Singh's Dev Card"/></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ## Here's some humor for you:
