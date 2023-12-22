@@ -37,7 +37,8 @@ me.say_hi()
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=euclidstellar&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+[![EuclidStellar's GitHub | Stats](https://stats.quine.sh/EuclidStellar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=euclidstellar&theme=react&hide_border=false)<br/>
 
@@ -64,7 +65,6 @@ me.say_hi()
 ## 📐 Activity Graph
 [![Euclid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euclidstellar&theme=react)](https://github.com/euclidstellar/github-readme-activity-graph)
 
-[![EuclidStellar's GitHub | Stats](https://stats.quine.sh/EuclidStellar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
 
 [![EuclidStellar's GitHub | Languages Over Time](https://stats.quine.sh/EuclidStellar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
 
