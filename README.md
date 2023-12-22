@@ -64,6 +64,12 @@ me.say_hi()
 ## 📐 Activity Graph
 [![Euclid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euclidstellar&theme=react)](https://github.com/euclidstellar/github-readme-activity-graph)
 
+[![EuclidStellar's GitHub | Stats](https://stats.quine.sh/EuclidStellar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
+
+[![EuclidStellar's GitHub | Languages Over Time](https://stats.quine.sh/EuclidStellar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
+
+[![EuclidStellar's GitHub | Dependencies](https://stats.quine.sh/EuclidStellar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
+
 ## Hacktoberfest 2023
 [![An image of @euclidstellar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/euclidstellar)](https://holopin.io/@euclidstellar)
 
