@@ -44,6 +44,9 @@ me.say_hi()
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euclidstellar&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![EuclidStellar's GitHub | Dependencies](https://stats.quine.sh/EuclidStellar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
+
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
@@ -70,7 +73,6 @@ me.say_hi()
 
 [![EuclidStellar's GitHub | Topics Over Time](https://stats.quine.sh/EuclidStellar/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
 
-[![EuclidStellar's GitHub | Dependencies](https://stats.quine.sh/EuclidStellar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
 
 ## Hacktoberfest 2023
 [![An image of @euclidstellar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/euclidstellar)](https://holopin.io/@euclidstellar)
