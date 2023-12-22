@@ -68,6 +68,8 @@ me.say_hi()
 
 [![EuclidStellar's GitHub | Languages Over Time](https://stats.quine.sh/EuclidStellar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
 
+[![EuclidStellar's GitHub | Topics Over Time](https://stats.quine.sh/EuclidStellar/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
+
 [![EuclidStellar's GitHub | Dependencies](https://stats.quine.sh/EuclidStellar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
 
 ## Hacktoberfest 2023
