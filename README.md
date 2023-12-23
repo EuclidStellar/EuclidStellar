@@ -42,8 +42,6 @@ me.say_hi()
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=euclidstellar&theme=react&hide_border=false)<br/>
 
-[![Euclid's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=euclidstellar&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euclidstellar&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![EuclidStellar's GitHub | Dependencies](https://stats.quine.sh/EuclidStellar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
@@ -58,9 +56,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=euclidstellar&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-<div id="header">
-  <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="250"/>
- </div>
+ [![Euclid's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=euclidstellar&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ck6qgjc9sw6stqxkdzibxp4z7&count=1)
 
