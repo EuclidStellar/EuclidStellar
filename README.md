@@ -42,6 +42,8 @@ me.say_hi()
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=euclidstellar&theme=react&hide_border=false)<br/>
 
+[![Euclid's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=euclidstellar&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euclidstellar&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![EuclidStellar's GitHub | Dependencies](https://stats.quine.sh/EuclidStellar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
