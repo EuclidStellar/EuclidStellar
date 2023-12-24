@@ -2,7 +2,7 @@
 <!-- # 💫 About Me:
 🌱 I’m currently learning Blockchain technologies and other web 3 frameworks<br><br>🤝 I’m looking for help with StellarX<br><br>💬 Ask me about Kubernetes,Docker and Blockchain<br><br>📫 How to reach me euclidstellar@gmail.com<br><br>⚡ Fun fact I am a Stoic<br><br>
  -->
- 
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -103,6 +103,17 @@ me.say_hi()
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
 </div>
 <br>
+
+
+ <a href="https://github.com/euclidstellar">
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%234AF736&size=32&center=true&vCenter=true&width=600%&lines=Golang+Backend+Developer;App+Developer;Open+Source+Contributer;Data+Structures+and+Algorithm;Competitive+Programming;Tech+Geek" />
+    </a>
+    <div align=center>
+    <a href="https://github.com/euclidstellar">
+    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+    </a>
+    </div>
+
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
