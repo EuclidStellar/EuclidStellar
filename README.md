@@ -54,7 +54,7 @@ me.say_hi()
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
 
-
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=euclidstellar)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=euclidstellar&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
