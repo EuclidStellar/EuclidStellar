@@ -5,26 +5,38 @@
 
 
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+```go
 
 
-class Explorer:
 
-    def __init__(self):
-        self.name = "Gaurav Singh"
-        self.role = "Web 3.0 Learner/Explorer"
-        self.language_spoken = ["hn_In", "en_US"]
-        self.learning = "Web 3.0 languages and frameworks"
-        self.fun_fact = "I'm a Stoic"
-        
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+package main
 
+import "fmt"
 
-me = Explorer()
-me.say_hi()
+type Explorer struct {
+	Name            string
+	Role            string
+	LanguageSpoken  []string
+	Learning        string
+	FunFact         string
+}
+
+func (e *Explorer) SayHi() {
+	fmt.Println("Thanks for dropping by, hope you find some of my work interesting.")
+}
+
+func main() {
+	me := Explorer{
+		Name:           "Gaurav Singh",
+		Role:           "Web 3.0 Learner/Explorer",
+		LanguageSpoken: []string{"hn_In", "en_US"},
+		Learning:       "Web 3.0 languages and frameworks",
+		FunFact:        "I'm a Stoic",
+	}
+
+	me.SayHi()
+}
+
 ```
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
