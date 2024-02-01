@@ -65,7 +65,7 @@ func main() {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
 
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Dominater069) 
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=euclidstellar) 
 <!-- ha bhai kya dekh rha hai inspiration ki rating lagai hai ek din yahi pe hunga samay de thora  -->
 
 ## 🏆 GitHub Trophies
