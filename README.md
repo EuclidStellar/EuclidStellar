@@ -63,7 +63,7 @@ func main() {
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%100Thousand%20lines%20of%20code-blue)
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=euclidstellar) 
 <!-- ha bhai kya dekh rha hai inspiration ki rating lagai hai ek din yahi pe hunga samay de thora  -->
