@@ -82,9 +82,9 @@ func main() {
 [![Euclid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euclidstellar&theme=react)](https://github.com/euclidstellar/github-readme-activity-graph)
 
 
-[![EuclidStellar's GitHub | Languages Over Time](https://stats.quine.sh/EuclidStellar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
+[<img src="https://stats.quine.sh/EuclidStellar/languages-over-time?theme=dark" width="400"/>](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
+[<img src="https://stats.quine.sh/EuclidStellar/topics-over-time?theme=dark" width="400"/>](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
 
-[![EuclidStellar's GitHub | Topics Over Time](https://stats.quine.sh/EuclidStellar/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
 
 
 ## Hacktoberfest 2023
