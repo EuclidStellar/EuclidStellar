@@ -45,7 +45,9 @@ func main() {
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 # 📊 GitHub Stats:
 [![EuclidStellar's GitHub | Stats](https://stats.quine.sh/EuclidStellar/github?theme=dark&size=small)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
-[![Euclid's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=euclidstellar&theme=dark&size=small)](https://github.com/KnlnKS/leetcode-stats)
+<img src="https://leetcard.jacoblin.cool/euclidstellar?theme=dark&font=Open%20Sans&ext=heatmap" width="380">
+
+
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=euclidstellar&size=small) 
 <!-- ha bhai kya dekh rha hai inspiration ki rating lagai hai ek din yahi pe hunga samay de thora  
