@@ -53,7 +53,8 @@ func main() {
 
 -->
 
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=euclidstellar&size=small) 
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=euclidstellar&size=small) <br>
+![](https://cp-logo.vercel.app/codechef/euclidsingh)
 <!-- ha bhai kya dekh rha hai inspiration ki rating lagai hai ek din yahi pe hunga samay de thora  
 
 ## 📐 Activity Graph
