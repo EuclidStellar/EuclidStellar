@@ -47,7 +47,11 @@ func main() {
 [![EuclidStellar's GitHub | Stats](https://stats.quine.sh/EuclidStellar/github?theme=dark&size=small)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
 <img src="https://leetcard.jacoblin.cool/euclidstellar?theme=dark&font=Open%20Sans&ext=heatmap" width="380">
 
+<!---
+![](https://leetcard.jacoblin.cool/euclidstellar?ext=contest&width=600&border=0&radius=20&height=100)
 
+
+-->
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=euclidstellar&size=small) 
 <!-- ha bhai kya dekh rha hai inspiration ki rating lagai hai ek din yahi pe hunga samay de thora  
