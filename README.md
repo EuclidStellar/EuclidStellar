@@ -53,11 +53,11 @@ func main() {
 
 <!---
 ![](https://leetcard.jacoblin.cool/euclidstellar?ext=contest&width=600&border=0&radius=20&height=100)
-
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=euclidstellar&size=small) <br>
 
 -->
 
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=euclidstellar&size=small) <br>
+
 ![](https://cp-logo.vercel.app/codechef/euclidsingh)
 <!-- ha bhai kya dekh rha hai inspiration ki rating lagai hai ek din yahi pe hunga samay de thora  
 
