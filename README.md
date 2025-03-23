@@ -47,8 +47,8 @@ func main() {
 [![Medium](https://github-readme-medium.vercel.app/?username=euclidstellar_57634)](https://medium.com/@euclidstellar_57634)
 
 
-# 📊 GitHub Stats:
-[![EuclidStellar's GitHub | Stats](https://stats.quine.sh/EuclidStellar/github?theme=dark&size=small)](https://quine.sh?utm_source=widgets&utm_campaign=EuclidStellar)
+# 📊 Leetcode Stats:
+
 <img src="https://leetcard.jacoblin.cool/euclidstellar?theme=dark&font=Open%20Sans&ext=heatmap" width="380">
 
 <!---
