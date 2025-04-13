@@ -60,10 +60,19 @@ func main() {
 
 ![](https://cp-logo.vercel.app/codechef/euclidsingh)
 <!-- ha bhai kya dekh rha hai inspiration ki rating lagai hai ek din yahi pe hunga samay de thora  
-
-## 📐 Activity Graph
-[![Euclid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euclidstellar&theme=react)](https://github.com/euclidstellar/github-readme-activity-graph)
 -->
+## 📐 Activity Graph
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=100860877" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=100860877&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @EuclidStellar" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=100860877&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=euclidstellar&icon=0&color=2)](https://visitcount.itsvg.in)
