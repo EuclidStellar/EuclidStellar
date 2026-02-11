@@ -72,7 +72,7 @@ func main() {
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
+![My GitHub Game](game.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=euclidstellar&icon=0&color=2)](https://visitcount.itsvg.in)
