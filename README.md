@@ -24,9 +24,9 @@ func (e *Explorer) SayHi() {
 func main() {
 	me := Explorer{
 		Name:           "Gaurav Singh",
-		Role:           "Backend developer in Go and Nodejs",
+		Role:           "Builder 2.0 with /effort ultracode on claude code",
 		LanguageSpoken: []string{"hn_In", "en_US"},
-		Learning:       "Server security",
+		Learning:       "inference engines",
 		FunFact:        "I'm a Stoic",
 	}
 
